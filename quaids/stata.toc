@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p quaids Almost ideal demand systems (AIDS) Use quaids With STATA 18
