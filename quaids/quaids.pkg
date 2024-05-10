@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'quaids': Almost ideal demand systems (AIDS) Use quaids With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _quaids__utils.mata
+f lquaids.mlib
+f nlsur__quaids.ado
+f quaids.ado
+f quaids.sthlp
+f quaids_estat.ado
+f quaids_p.ado
+f quaids_postestimation.sthlp
